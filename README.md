@@ -26,8 +26,8 @@
 - 🤔 I’m looking for help with Improving my [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) documentation and features.
 - 💬 Ask me about Android in general or Jetpack Compsoe.
 - 📫 How to reach me: [Twitter - @_gurupreet](https://twitter.com/_gurupreet)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: If I am not conding then I am playing basktball or PUBG
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: If I am not coding then I am playing basktball or PUBG.
 
 **Languages and Tools:**  
 
